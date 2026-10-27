@@ -1,0 +1,4 @@
+type,indicator,severity
+IP,198.51.100.25,HIGH
+DOMAIN,malware-test.example,HIGH
+HASH,44d88612fea8a8f36de82e1278abb02f,MEDIUM

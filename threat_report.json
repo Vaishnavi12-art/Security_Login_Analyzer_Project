@@ -1,0 +1,23 @@
+{
+    "scan_time": "2026-10-27T07:11:17",
+    "log_file": "security_logs.txt",
+    "indicators_checked": 5,
+    "matches_found": 3,
+    "findings": [
+        {
+            "type": "IP",
+            "indicator": "198.51.100.25",
+            "severity": "HIGH"
+        },
+        {
+            "type": "DOMAIN",
+            "indicator": "malware-test.example",
+            "severity": "HIGH"
+        },
+        {
+            "type": "HASH",
+            "indicator": "44d88612fea8a8f36de82e1278abb02f",
+            "severity": "MEDIUM"
+        }
+    ]
+}
